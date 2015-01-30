@@ -40,7 +40,7 @@ Many people would find it intimidating or too much effort required to write a re
 
 In this semester break itself, we received over 200 over reviews from our students! NUSMods ran a module review competition within the school. People who wrote the best reviews would win cash prizes. There are also a few categories, such as creativity, humour, etc. For our module review function, I used the Disqus plugin where people can embed picture/videos in their review. It also comes with a moderator feature as well; it's a really nice service to use.
 
-![Module review contest screenshot](mods-review-contest.jpg)
+![Module review contest screenshot](mods-review-poster.jpg)
 
 ### How does NUSMods work ?
 
